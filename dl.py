@@ -1,6 +1,5 @@
 import numpy as np
 
-
 # Define the input data and expected output
 X = np.array([[0, 0], [1, 1]])
 y = np.array([[0], [1]])
@@ -28,7 +27,6 @@ W2 = np.random.randn(hidden_layer_size, hidden_layer_size)
 b2 = np.random.randn(hidden_layer_size)
 W3 = np.random.randn(hidden_layer_size, output_layer_size)
 b3 = np.random.randn(output_layer_size)
-
 
 # Define the sigmoid activation function
 def sigmoid(x):
