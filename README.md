@@ -7,7 +7,7 @@ A storage for different kinds of AI, made as simple as possible to understand ho
 
 ## Implements: 
 + Basic Neural Network (nn.py)
-+ Deep Learning Neural Network (dl.py)
++ Deep Neural Network (dnn.py)
 + Convolutional Process (convolution.py) 
 + Recurrent Neural Network (rnn.py)
 + Reinforcement Learning (rl.py)
@@ -15,7 +15,7 @@ A storage for different kinds of AI, made as simple as possible to understand ho
 ## What they do:
 ### Neural Network:
 Recognize pattern between input and output data. 
-### Deep Learning Neural Networks:
+### Deep Neural Networks:
 Like Neural Networks but with multiple hidden Layers to learn more complex data.
 ### Convolutional Process:
 Prepocessing the input Image to learn the important Details of the Image. Speeds up the learning process of the Neural Network later.
