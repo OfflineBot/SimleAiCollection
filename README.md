@@ -8,7 +8,7 @@ A storage for different kinds of AI, made as simple as possible to understand ho
 ## Implements: 
 + Basic Neural Network (nn.py)
 + Deep Learning Neural Network (dl.py)
-+ Convolutional Process for preprocessing the Data for Neural Networks (convolution.py) 
++ Convolutional Process (convolution.py) 
 + Recurrent Neural Network (rnn.py)
 + Reinforcement Learning (rl.py)
 
