@@ -1,5 +1,5 @@
 # AI Collection
-A storage for different kinds of AI, made as simple as possible to understand how they work.
+A storage for different types of AI, made as simple as possible to understand how they work.
 
 ## Requirements:
 + python
