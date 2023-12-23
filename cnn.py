@@ -49,3 +49,7 @@ gradient = np.random.rand(*kernel.shape)  # Replace this with your actual gradie
 updated_kernel = kernel_update(kernel, learning_rate, gradient)
 
 print(pooled_result)
+
+# next: 
+# flatten pooled results
+# run the pooled results as input and the correct output for the output for neural networks
